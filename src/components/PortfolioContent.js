@@ -6,7 +6,7 @@ import ContactInfo from './ContactInfo';
 class PortfolioContent extends Component {
     render() {
         return(
-            <div class="portfolio-content">
+            <div className="portfolio-content">
                 <Header />      
                 <Summary />
                 <ContactInfo />
