@@ -5,7 +5,7 @@ class Summary extends Component {
         return(
             <section>
                 <h4>Summary</h4>
-                <p>I am a designer and full stack developer with a primary focus on the front-end. I have worked on all layers of a project from implementing designer mockups, custom animations, and building APIs.</p>
+                <p>I am a network engineer and full stack developer with a primary focus on the front-end. I have worked on all layers of a project from implementing designer mockups, custom animations, and building APIs.</p>
             </section>
         );
     }
